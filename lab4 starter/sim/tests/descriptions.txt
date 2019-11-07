@@ -1,0 +1,31 @@
+basic
+    Sanity check. Input is a small image of all 0s, output should be some 0s.
+    Ensures the accelerator is hooked up and correctly writing to the output
+    buffer only at the locations required, and no more (i.e. only writes the
+    correct number of pixels at the correct locations in output buffer memory).
+
+image00
+    Simple 4-by-4 image, output should be 4 bytes. There are no pixel
+    saturations here (i.e. Sobel values greater than 255).
+    
+image01
+    Same as image00 but tests Sobel pixel saturation with calculated values
+    greater than 255.
+
+image02
+    Same as image00 but tests Endian-ness for consistency with the MIPS design.
+    Also includes some saturation tests (in this case, it is a bug if anything
+    does saturate).
+
+image03
+    Same as image02 except the row input order is flipped. Affects saturation.
+
+image04
+    Slightly larger 6-by-6 image, output should be 16 bytes. Tests output
+    generation and addressing for a slightly larger output size.
+
+image05
+    Same as image04 except an 8-by-8 image; output should be 36 bytes.
+
+imageMIPS
+    Uses the same input and output buffers as the MIPS Sobel tests do.

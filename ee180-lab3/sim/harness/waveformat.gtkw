@@ -1,0 +1,63 @@
+[*]
+[*] GTKWave Analyzer v3.3.66 (w)1999-2015 BSI
+[*] Sun May 19 22:17:24 2019
+[*]
+[dumpfile] "/home/swkonz/ee180/EE180-ComputerArchitecture/ee180-lab3/sim/tests/nor/streamwave.vcd"
+[dumpfile_mtime] "Sun May 19 22:16:31 2019"
+[dumpfile_size] 33055
+[savefile] "/home/swkonz/ee180/EE180-ComputerArchitecture/ee180-lab3/sim/harness/waveformat.gtkw"
+[timestart] 3800
+[size] 1440 804
+[pos] 0 0
+*-15.000000 150600 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] userlogic_test.
+[treeopen] userlogic_test.ul.
+[treeopen] userlogic_test.ul.cpu.
+[sst_width] 283
+[signals_width] 217
+[sst_expanded] 1
+[sst_vpaned_height] 420
+@200
+-Top
+@28
+userlogic_test.clk
+userlogic_test.rst_n
+@200
+-Input Buffer
+@22
+userlogic_test.input_buffer.din[31:0]
+userlogic_test.input_buffer.dout[31:0]
+@28
+userlogic_test.input_buffer.we
+@200
+-Output Buffer
+@22
+userlogic_test.output_buffer.din[31:0]
+userlogic_test.output_buffer.dout[31:0]
+@200
+-MIPS
+@22
+userlogic_test.ul.cpu.pc[31:0]
+userlogic_test.ul.cpu.instr[31:0]
+userlogic_test.ul.cpu.d_stage.op[5:0]
+@28
+userlogic_test.ul.cpu.d_stage.movz
+userlogic_test.ul.cpu.d_stage.jump_branch
+userlogic_test.ul.cpu.d_stage.jump_reg
+userlogic_test.ul.cpu.d_stage.jump_target
+@22
+userlogic_test.ul.cpu.d_stage.rt_data[31:0]
+userlogic_test.ul.cpu.d_stage.rs_data[31:0]
+userlogic_test.ul.cpu.w_stage.reg_write_data[31:0]
+userlogic_test.ul.cpu.d_stage.immediate[15:0]
+[color] 6
+userlogic_test.ul.cpu.x_stage.alu_op_x[31:0]
+[color] 6
+userlogic_test.ul.cpu.x_stage.alu_op_y[31:0]
+[color] 6
+userlogic_test.ul.cpu.x_stage.alu_result[31:0]
+@23
+[color] 6
+userlogic_test.ul.cpu.x_stage.alu_opcode[3:0]
+[pattern_trace] 1
+[pattern_trace] 0

@@ -1,0 +1,11 @@
+-p
+xc7z020clg484-1
+-lang
+verilog
+-intstyle
+default
+-lp
+/afs/.ir.stanford.edu/users/p/a/pavmeh/ee180_2018/lab4/lab4/hw/zed_lib/
+-msg
+__xps/ise/xmsgprops.lst
+system.mhs

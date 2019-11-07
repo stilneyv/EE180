@@ -1,0 +1,39 @@
+##############################################################################
+## Filename:          stream_engine_v2_1_0.pao
+## Description:       Peripheral Analysis Order
+## Author:            Steven Bell <sebell@stanford.edu>
+## Date:              31 January 2013
+##############################################################################
+
+lib proc_common_v3_00_a  all 
+lib axi_lite_ipif_v1_01_a  all 
+
+##############################################################################
+# HDL modules for hardware design.
+##############################################################################
+lib stream_engine_v1_00_a sobel/lib/dffr verilog
+lib stream_engine_v1_00_a sobel/lib/dffre verilog
+lib stream_engine_v1_00_a sobel/lib/dffare verilog
+lib stream_engine_v1_00_a sobel/lib/dffarre verilog
+
+lib stream_engine_v1_00_a sobel/sobel_accelerator verilog
+lib stream_engine_v1_00_a sobel/sobel_control verilog
+lib stream_engine_v1_00_a sobel/sobel_image_rowregs verilog
+lib stream_engine_v1_00_a sobel/sobel_read_transform verilog
+lib stream_engine_v1_00_a sobel/sobel_write_transform verilog
+lib stream_engine_v1_00_a sobel/sobel_top verilog
+# Projects based on the stream engine must include a userlogic module.
+lib stream_engine_v1_00_a sobel/userlogic verilog
+
+##############################################################################
+# Stream Engine Modules
+# These moduels must be listed and should not be modified.
+##############################################################################
+lib stream_engine_v1_00_a ipif_reg verilog
+lib stream_engine_v1_00_a encoder verilog
+lib stream_engine_v1_00_a axis_addr verilog
+lib stream_engine_v1_00_a dataram verilog
+lib stream_engine_v1_00_a dataram2 verilog
+lib stream_engine_v1_00_a dataram3 verilog
+lib stream_engine_v1_00_a pipelogic verilog
+lib stream_engine_v1_00_a stream_engine vhdl

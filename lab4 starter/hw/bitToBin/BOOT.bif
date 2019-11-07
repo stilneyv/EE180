@@ -1,0 +1,6 @@
+the_ROM_image:
+{
+	[bootloader]zed_fsbl.elf
+	/afs/.ir.stanford.edu/users/p/a/pavmeh/ee180_2018/lab4/lab4/hw/zed/implementation/system.bit
+	u-boot.elf
+}

@@ -1,0 +1,9 @@
+0000000000000000000000000000000000000000 19b261b562fdadc69130419e8d235547006ed740 stilneyv <stilneyv@stanford.edu> 1555040048 -0700	clone: from https://github.com/swkonz/EE180-ComputerArchitecture
+19b261b562fdadc69130419e8d235547006ed740 a9402d765288b495f36507471e5d8eb8c120f387 stilneyv <stilneyv@stanford.edu> 1555394650 -0700	pull: Fast-forward
+a9402d765288b495f36507471e5d8eb8c120f387 a92312a63f1c0bf1301e26bbb468093be88e0d8e stilneyv <stilneyv@stanford.edu> 1556316751 -0700	pull: Fast-forward
+a92312a63f1c0bf1301e26bbb468093be88e0d8e 76f554858e804d62f2dd466c67b46c495258ff6a stilneyv <stilneyv@stanford.edu> 1557603897 -0700	commit: lab 3 setup
+76f554858e804d62f2dd466c67b46c495258ff6a 07eeeb04c0f9f122c55dd9aef9dd2ab2deda1323 stilneyv <stilneyv@stanford.edu> 1559330900 -0700	pull: Fast-forward
+07eeeb04c0f9f122c55dd9aef9dd2ab2deda1323 5552f067d002ff3bf2a83c3c1a679b1f88a1ceb4 stilneyv <stilneyv@stanford.edu> 1559502107 -0700	commit: working, need to edit a few minor things. finishing commenting
+5552f067d002ff3bf2a83c3c1a679b1f88a1ceb4 1c7a7d1bf625902366d39027f2ef957b15252342 stilneyv <stilneyv@stanford.edu> 1559502563 -0700	commit: finished accelerator
+1c7a7d1bf625902366d39027f2ef957b15252342 9c0d60c7cd4b5d95956d26c60ae6764761864de6 stilneyv <stilneyv@stanford.edu> 1559503463 -0700	commit: finished
+9c0d60c7cd4b5d95956d26c60ae6764761864de6 b02f1feccb6de5d59de3e6cbf8d112cf04d5ff58 stilneyv <stilneyv@stanford.edu> 1559504455 -0700	commit: finished README

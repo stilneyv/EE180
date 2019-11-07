@@ -1,0 +1,48 @@
+0000000000000000000000000000000000000000 cbd9aa605bc453d92799291e2953ebf69ad397d4 stilneyv <stilneyv@stanford.edu> 1558231690 -0700	branch: Created from HEAD
+cbd9aa605bc453d92799291e2953ebf69ad397d4 c1092795f5919cf2eb2c7667399d0fee7949897c stilneyv <stilneyv@stanford.edu> 1558246652 -0700	commit: backup
+c1092795f5919cf2eb2c7667399d0fee7949897c 9aeaad86c9937eb045ed260e25b1c728a6d7ef9a stilneyv <stilneyv@stanford.edu> 1558247654 -0700	pull: Fast-forward
+9aeaad86c9937eb045ed260e25b1c728a6d7ef9a 86ff02b7e4bf06f638d89f7a0acbc22dce115b53 stilneyv <stilneyv@stanford.edu> 1558250407 -0700	commit: there's def gonna be a merge conflict here rip
+86ff02b7e4bf06f638d89f7a0acbc22dce115b53 a390c556e9158cdf6c706ffb473bf7c53dddeaa7 stilneyv <stilneyv@stanford.edu> 1558250416 -0700	pull: Merge made by the 'recursive' strategy.
+a390c556e9158cdf6c706ffb473bf7c53dddeaa7 7db37d48d9c8d94aae458114a197d042b9d8981a stilneyv <stilneyv@stanford.edu> 1558251908 -0700	commit: working bgez and blez
+7db37d48d9c8d94aae458114a197d042b9d8981a db0e9a475c2f9cb38fa92814264d806be76842bc stilneyv <stilneyv@stanford.edu> 1558251923 -0700	pull: Merge made by the 'recursive' strategy.
+db0e9a475c2f9cb38fa92814264d806be76842bc 25d36d572e8bc5b81d63957f2c32ae3ee6e71b6a stilneyv <stilneyv@stanford.edu> 1558253129 -0700	commit: working bltz
+25d36d572e8bc5b81d63957f2c32ae3ee6e71b6a a17113cfa54713c3bd188962287914438f030898 stilneyv <stilneyv@stanford.edu> 1558253162 -0700	pull: Merge made by the 'recursive' strategy.
+a17113cfa54713c3bd188962287914438f030898 6d3cd0a8a98b6db3017c3a7aaa1c16d8a3d63cd0 stilneyv <stilneyv@stanford.edu> 1558253572 -0700	commit: a few debugging things
+6d3cd0a8a98b6db3017c3a7aaa1c16d8a3d63cd0 4b4accae6a3291fcb9e52c09350eddb2584cf9f1 stilneyv <stilneyv@stanford.edu> 1558254002 -0700	commit: adding a bgtz test
+4b4accae6a3291fcb9e52c09350eddb2584cf9f1 951df5ca4775a2bc6b0c5fc03f8cc0c668b4e363 stilneyv <stilneyv@stanford.edu> 1558254010 -0700	pull: Merge made by the 'recursive' strategy.
+951df5ca4775a2bc6b0c5fc03f8cc0c668b4e363 a8d84fec1d427f8397f6731626a87e3d20210b66 stilneyv <stilneyv@stanford.edu> 1558256545 -0700	commit: starting on movz
+a8d84fec1d427f8397f6731626a87e3d20210b66 9d9ab9468a99513a037254cd051890bb472902ba stilneyv <stilneyv@stanford.edu> 1558256552 -0700	pull: Merge made by the 'recursive' strategy.
+9d9ab9468a99513a037254cd051890bb472902ba 59209dcf2d789fa869079bc900ca8a2ebaa27979 stilneyv <stilneyv@stanford.edu> 1558258547 -0700	commit: working movz
+59209dcf2d789fa869079bc900ca8a2ebaa27979 13e29c633741a90c1b6f49a568e26e46d376ef9d stilneyv <stilneyv@stanford.edu> 1558301980 -0700	commit: working test for sw
+13e29c633741a90c1b6f49a568e26e46d376ef9d 661be5a1407a69e1f2452476961520f35ab11f3e stilneyv <stilneyv@stanford.edu> 1558302170 -0700	commit: working sltiu
+661be5a1407a69e1f2452476961520f35ab11f3e eacb25bb261ea31a3d8d778ba3af718fddfb676b stilneyv <stilneyv@stanford.edu> 1558303417 -0700	commit: starting on mul
+eacb25bb261ea31a3d8d778ba3af718fddfb676b bdefe1664f6c27675895de08f701575999ba7562 stilneyv <stilneyv@stanford.edu> 1558304533 -0700	commit: working mul
+bdefe1664f6c27675895de08f701575999ba7562 e4459646ebe1811217c23688d389c2f31b914977 stilneyv <stilneyv@stanford.edu> 1558305041 -0700	pull: Fast-forward
+e4459646ebe1811217c23688d389c2f31b914977 57b59ca9f89cff3ca72dec571fa6e9a897c00b88 stilneyv <stilneyv@stanford.edu> 1558305176 -0700	commit: working slt
+57b59ca9f89cff3ca72dec571fa6e9a897c00b88 41cd7062e7a5c50af7568518f7a4427f2402e4a6 stilneyv <stilneyv@stanford.edu> 1558305436 -0700	commit: working sllv
+41cd7062e7a5c50af7568518f7a4427f2402e4a6 94fb6b267cd0b17e721e4eb11a6a9b03e1191752 stilneyv <stilneyv@stanford.edu> 1558307042 -0700	pull: Fast-forward
+94fb6b267cd0b17e721e4eb11a6a9b03e1191752 0878af92e9859b42a32e7e7ecdf74607e8a6e3d4 stilneyv <stilneyv@stanford.edu> 1558316427 -0700	commit: working stalls?
+0878af92e9859b42a32e7e7ecdf74607e8a6e3d4 db107070ac9b4104d024eb2c31b79eeb3cf810fe stilneyv <stilneyv@stanford.edu> 1558318518 -0700	commit: apparently now everything works besides lb and sb wtf
+db107070ac9b4104d024eb2c31b79eeb3cf810fe 6d6a7e80f02723f0e6150fac3ef1a398b2f4132a stilneyv <stilneyv@stanford.edu> 1558404122 -0700	commit: added llsc test
+6d6a7e80f02723f0e6150fac3ef1a398b2f4132a a6200cafe4c2558454485637d38c38e70fbce353 stilneyv <stilneyv@stanford.edu> 1558404129 -0700	pull: Merge made by the 'recursive' strategy.
+a6200cafe4c2558454485637d38c38e70fbce353 988634c9871e5f103985272a45b6678975100449 stilneyv <stilneyv@stanford.edu> 1558414665 -0700	commit: some minor stuff
+988634c9871e5f103985272a45b6678975100449 6f96e767f53403036711e7776b447a192008492f stilneyv <stilneyv@stanford.edu> 1558427434 -0700	commit: changes but no change in result
+6f96e767f53403036711e7776b447a192008492f 44505abae2b761f427ef9884ed3fc3586d436462 stilneyv <stilneyv@stanford.edu> 1558427525 -0700	commit: changed
+44505abae2b761f427ef9884ed3fc3586d436462 8d36d73042ad7ad932dbfca1de0eaf85e2152b57 stilneyv <stilneyv@stanford.edu> 1558468936 -0700	commit: working ll, llsc, and sc tests
+8d36d73042ad7ad932dbfca1de0eaf85e2152b57 1794f06538a0a27c045d6ad8e68bf9fe3083b9ec stilneyv <stilneyv@stanford.edu> 1558470299 -0700	commit: all tests pass woot
+1794f06538a0a27c045d6ad8e68bf9fe3083b9ec 3f6e76d01dc68219f5994eebcf0a9a9ab75ccb30 stilneyv <stilneyv@stanford.edu> 1558471947 -0700	commit: added a few more tests
+3f6e76d01dc68219f5994eebcf0a9a9ab75ccb30 89736d8d151062ac2ba62113446020474557ccb9 stilneyv <stilneyv@stanford.edu> 1558473860 -0700	commit: added sobel test, works. remove for best optimization
+89736d8d151062ac2ba62113446020474557ccb9 fdd0e899e4b6725c3be080c36523610247b15f61 stilneyv <stilneyv@stanford.edu> 1558474128 -0700	commit: moved sobel asm back, removed nops from xori and still works
+fdd0e899e4b6725c3be080c36523610247b15f61 271390c31bff30747fc1649d7d6809a1930137bf stilneyv <stilneyv@stanford.edu> 1558474457 -0700	commit: removed nops from sub and below
+271390c31bff30747fc1649d7d6809a1930137bf 6e90b40430be0e097dc19a858175b4497089d505 stilneyv <stilneyv@stanford.edu> 1558475146 -0700	commit: removed nops from sra and below
+6e90b40430be0e097dc19a858175b4497089d505 fe8d65d56e67121419d4f8851a6bf370be016413 stilneyv <stilneyv@stanford.edu> 1558475152 -0700	pull: Merge made by the 'recursive' strategy.
+fe8d65d56e67121419d4f8851a6bf370be016413 eabc6496b21deeebb5bce3fa82d4a137633a671e stilneyv <stilneyv@stanford.edu> 1558475633 -0700	commit: removed nops from everything under nor
+eabc6496b21deeebb5bce3fa82d4a137633a671e 0290d37028278ab678a6f1f7953dfacbc4324c2a stilneyv <stilneyv@stanford.edu> 1558475639 -0700	pull: Merge made by the 'recursive' strategy.
+0290d37028278ab678a6f1f7953dfacbc4324c2a a8f598e064ff388ee56cc14fea2be92efe1b6c2a stilneyv <stilneyv@stanford.edu> 1558477540 -0700	commit: final, minus comments
+a8f598e064ff388ee56cc14fea2be92efe1b6c2a 1f8a7ad951ae98faadcab643837ef2826aeb25de stilneyv <stilneyv@stanford.edu> 1558479896 -0700	commit: final w comments
+1f8a7ad951ae98faadcab643837ef2826aeb25de 62a0e4aea64f474dd7dbfdd5db9ea24d9b39b012 stilneyv <stilneyv@stanford.edu> 1558479902 -0700	pull: Merge made by the 'recursive' strategy.
+62a0e4aea64f474dd7dbfdd5db9ea24d9b39b012 972469212bef3a71b40f3cb3741a68c0302f4bcb stilneyv <stilneyv@stanford.edu> 1558489523 -0700	commit: final, implemented lb fix
+972469212bef3a71b40f3cb3741a68c0302f4bcb 88d0536be0a5f732bbd9faa30a2cd0685b561932 stilneyv <stilneyv@stanford.edu> 1558499018 -0700	commit: added ReadMe
+88d0536be0a5f732bbd9faa30a2cd0685b561932 a977e005e7a4855ce31265fc71202f24e9b7f0d1 stilneyv <stilneyv@stanford.edu> 1558507197 -0700	pull: Fast-forward
+a977e005e7a4855ce31265fc71202f24e9b7f0d1 f7dad1d266c9497df93953ac28ab794bde0c8783 stilneyv <stilneyv@stanford.edu> 1558507848 -0700	commit: had to add submit early line to the ReadMe
+f7dad1d266c9497df93953ac28ab794bde0c8783 a256d08273c4f2fddf33a1a498ddbd2789cc1ef7 stilneyv <stilneyv@stanford.edu> 1559330892 -0700	commit: stupid .DS_store thing

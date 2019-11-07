@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 76f554858e804d62f2dd466c67b46c495258ff6a stilneyv <stilneyv@stanford.edu> 1557604132 -0700	branch: Created from HEAD
+76f554858e804d62f2dd466c67b46c495258ff6a 91ae27d194b6dd8ebe88c99cc347035d14a737a6 stilneyv <stilneyv@stanford.edu> 1558214393 -0700	commit: working addi and andi tests
+91ae27d194b6dd8ebe88c99cc347035d14a737a6 eaafeb25856fb378f1ea039b2be67cba9345562d stilneyv <stilneyv@stanford.edu> 1558216991 -0700	commit: an attempt at implementing some branching
+eaafeb25856fb378f1ea039b2be67cba9345562d 1cbfb18f6de6c59220a6da7e1fccac0a0d8b69e5 stilneyv <stilneyv@stanford.edu> 1558224378 -0700	commit: jump was broken and is now fixed, some developments on beq
+1cbfb18f6de6c59220a6da7e1fccac0a0d8b69e5 6e0312185ff9d6a152fb3949dc00b4fd969b6a72 stilneyv <stilneyv@stanford.edu> 1558230442 -0700	commit: working beq :)
+6e0312185ff9d6a152fb3949dc00b4fd969b6a72 cbd9aa605bc453d92799291e2953ebf69ad397d4 stilneyv <stilneyv@stanford.edu> 1558231683 -0700	commit: working bne and beq
+cbd9aa605bc453d92799291e2953ebf69ad397d4 f7c4146f446a77e02bccc1efebb8793fe48ab75a stilneyv <stilneyv@stanford.edu> 1558246697 -0700	pull: Merge made by the 'recursive' strategy.

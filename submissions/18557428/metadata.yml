@@ -1,0 +1,14 @@
+---
+:id: 18557428
+:submitters:
+- :name: Sean William Konz
+  :email: swkonz@stanford.edu
+- :name: Schuyler Anne Tilney-Volk
+  :email: stilneyv@stanford.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2019-06-03 05:42:04.259084000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2019-06-02 22:42:04.259084000 Z
+:status: processed
+:score: 100.0
