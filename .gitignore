@@ -1,4 +1,4 @@
 # Don't track content of these folders
-.oldgit/
+**/.oldgit/
 
 
